@@ -1,4 +1,4 @@
-# 2021_Business-Intelligence---Sales-Analysis
+# 2021_Business-Intelligence-Sales-Analysis
 `[SQL | Tableau]`
 
 Welcome to the "Business Intelligence - Sales Analysis" repository! This project represents the culmination of the course "Business Intelligence and Business Analytics." The objective of this project was to perform an in-depth analysis of a specific business case using the available dataset and create an insightful dashboard that presents key findings. The technical details can be found in the accompanying reports, and the final visualization of the dashboard is available in the presentation.
